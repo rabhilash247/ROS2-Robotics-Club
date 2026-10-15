@@ -35,4 +35,4 @@ ROS2/
 | Navigation2 (Nav2) | Exploring map-based autonomous navigation. |
 | Troubleshooting | Common setup, simulation, visualization, and navigation issues. |
 
-**Note:** The tree above describes the intended organization. The shell scripts and separate learning-topic folders should be added to the repository if they do not already exist. The learning topics may currently be documented within `README.md` rather than stored as separate files.
+
